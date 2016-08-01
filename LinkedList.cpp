@@ -40,4 +40,9 @@ void insert_node(int data){
 
      struct SNode *n_bantu; // untuk bantuan mencari node terakhir
       n_bantu = n_awal;
+
+      // cari node terakhir
+          while (n_bantu -> next != NULL){
+                n_bantu = n_bantu -> next;    
+          }
           
