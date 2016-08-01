@@ -61,4 +61,8 @@ for(iterasi = 1; iterasi <= 5; iterasi++)
     {
         insert_node(iterasi);
     }
+   tampil_list();
   
+    system("PAUSE"); 
+    return 0;
+}
