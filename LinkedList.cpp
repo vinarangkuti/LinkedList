@@ -28,3 +28,7 @@ void insert_node(int data){
 
 	 //node baru yang akan di insert
      struct SNode *n_insert;
+     n_insert = (struct SNode *)malloc(sizeof(struct SNode));; 
+     n_insert -> data = iterasi;
+     n_insert -> next = NULL;
+    
