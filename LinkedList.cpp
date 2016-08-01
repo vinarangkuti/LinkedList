@@ -22,3 +22,6 @@ void tampil_list(){
  }
     printf("\n");
 }
+
+//method untuk insert node baru
+void insert_node(int data){
