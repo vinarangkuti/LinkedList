@@ -32,3 +32,6 @@ void insert_node(int data){
      n_insert -> data = iterasi;
      n_insert -> next = NULL;
     
+     //kondisi linked list masih kosong
+     if (n_awal == NULL){
+       
