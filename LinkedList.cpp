@@ -39,4 +39,5 @@ void insert_node(int data){
      } else {
 
      struct SNode *n_bantu; // untuk bantuan mencari node terakhir
+      n_bantu = n_awal;
           
