@@ -53,3 +53,7 @@ void insert_node(int data){
           }
      }
 }
+
+int main(int argc, char *argv[])
+{
+    inisialisasi();
