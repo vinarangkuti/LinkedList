@@ -14,3 +14,6 @@ void inisialisasi(){
 }
 //tampilkan linked list
 void tampil_list(){
+
+	n_tampil = n_awal;
+    
