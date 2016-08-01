@@ -3,3 +3,5 @@
 //definisikan struct
 struct SNode{
 	 int data;
+struct SNode *next;
+};
