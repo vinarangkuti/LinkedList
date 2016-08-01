@@ -18,4 +18,7 @@ void tampil_list(){
 	n_tampil = n_awal;
      while(n_tampil != NULL){
       printf("%d ", n_tampil -> data);
-            n_tampil = n_tampil -> next;
+         n_tampil = n_tampil -> next;
+ }
+    printf("\n");
+}
