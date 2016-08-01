@@ -34,4 +34,6 @@ void insert_node(int data){
     
      //kondisi linked list masih kosong
      if (n_awal == NULL){
+         n_awal = n_insert;
        
+     } else {
