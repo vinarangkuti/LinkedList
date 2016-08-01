@@ -37,3 +37,6 @@ void insert_node(int data){
          n_awal = n_insert;
        
      } else {
+
+     struct SNode *n_bantu; // untuk bantuan mencari node terakhir
+          
