@@ -10,3 +10,5 @@ int iterasi;
 
 //inisialisasi linked list
 void inisialisasi(){
+	 n_awal = NULL;
+}
