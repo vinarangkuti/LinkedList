@@ -46,3 +46,6 @@ void insert_node(int data){
                 n_bantu = n_bantu -> next;    
           }
           
+     //hubungkan node terakhir dengan node baru
+          if(n_bantu -> next == NULL)
+          {
