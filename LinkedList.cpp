@@ -57,3 +57,8 @@ void insert_node(int data){
 int main(int argc, char *argv[])
 {
     inisialisasi();
+for(iterasi = 1; iterasi <= 5; iterasi++)
+    {
+        insert_node(iterasi);
+    }
+  
