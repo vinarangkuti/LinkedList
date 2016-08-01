@@ -5,3 +5,4 @@ struct SNode{
 	 int data;
 struct SNode *next;
 };
+struct SNode *n_awal, *n_tampil;
