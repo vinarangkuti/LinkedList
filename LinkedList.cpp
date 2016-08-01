@@ -16,4 +16,4 @@ void inisialisasi(){
 void tampil_list(){
 
 	n_tampil = n_awal;
-    
+     while(n_tampil != NULL){
