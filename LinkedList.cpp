@@ -12,3 +12,5 @@ int iterasi;
 void inisialisasi(){
 	 n_awal = NULL;
 }
+//tampilkan linked list
+void tampil_list(){
