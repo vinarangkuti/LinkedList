@@ -25,3 +25,6 @@ void tampil_list(){
 
 //method untuk insert node baru
 void insert_node(int data){
+
+	 //node baru yang akan di insert
+     struct SNode *n_insert;
